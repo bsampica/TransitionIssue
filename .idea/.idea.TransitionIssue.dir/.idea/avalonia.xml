@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="TransitionIssue.csproj" />
+        <entry key="Views/FirstPageView.axaml" value="TransitionIssue.csproj" />
+        <entry key="Views/MainWindow.axaml" value="TransitionIssue.csproj" />
+        <entry key="Views/SecondPageView.axaml" value="TransitionIssue.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
