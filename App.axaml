@@ -11,7 +11,7 @@
     </Application.DataTemplates>
 
     <Application.Styles>
-        <!-- <FluentTheme /> -->
-        <themes:MaterialTheme BaseTheme="Dark" PrimaryColor="Purple" SecondaryColor="Lime" />
+        <FluentTheme />
+        <!-- <themes:MaterialTheme BaseTheme="Dark" PrimaryColor="Purple" SecondaryColor="Lime" /> -->
     </Application.Styles>
 </Application>
